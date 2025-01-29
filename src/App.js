@@ -11,7 +11,7 @@ function App() {
     async function fetchApi() {
       const NASA_KEY = process.env.REACT_APP_NASA_API_KEY;
 
-      const today = new Date().toDateString;
+      const today = new Date().toDateString();
       const localKey = `NASA_${today}`;
       if (localStorage.getItem(localKey)) {
         const apiData = JSON.parse(localStorage.getItem(localKey));
