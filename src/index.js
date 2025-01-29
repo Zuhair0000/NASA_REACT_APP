@@ -7,7 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/NASA_APP">
+    <BrowserRouter basename="/NASA_REACT_APP">
       <App />
     </BrowserRouter>
   </React.StrictMode>
