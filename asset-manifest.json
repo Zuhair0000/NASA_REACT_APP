@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/NASA_APP/static/css/main.051631ea.css",
-    "main.js": "/NASA_APP/static/js/main.f599a5f0.js",
-    "index.html": "/NASA_APP/index.html",
-    "main.051631ea.css.map": "/NASA_APP/static/css/main.051631ea.css.map",
-    "main.f599a5f0.js.map": "/NASA_APP/static/js/main.f599a5f0.js.map"
+    "main.css": "/NASA_REACT_APP/static/css/main.051631ea.css",
+    "main.js": "/NASA_REACT_APP/static/js/main.fe511ae5.js",
+    "index.html": "/NASA_REACT_APP/index.html",
+    "main.051631ea.css.map": "/NASA_REACT_APP/static/css/main.051631ea.css.map",
+    "main.fe511ae5.js.map": "/NASA_REACT_APP/static/js/main.fe511ae5.js.map"
   },
   "entrypoints": [
     "static/css/main.051631ea.css",
-    "static/js/main.f599a5f0.js"
+    "static/js/main.fe511ae5.js"
   ]
 }
