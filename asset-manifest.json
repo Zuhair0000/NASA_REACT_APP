@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/NASA_APP/static/css/main.48deb967.css",
-    "main.js": "/NASA_APP/static/js/main.70cb265f.js",
+    "main.js": "/NASA_APP/static/js/main.2ca596ed.js",
     "index.html": "/NASA_APP/index.html",
     "main.48deb967.css.map": "/NASA_APP/static/css/main.48deb967.css.map",
-    "main.70cb265f.js.map": "/NASA_APP/static/js/main.70cb265f.js.map"
+    "main.2ca596ed.js.map": "/NASA_APP/static/js/main.2ca596ed.js.map"
   },
   "entrypoints": [
     "static/css/main.48deb967.css",
-    "static/js/main.70cb265f.js"
+    "static/js/main.2ca596ed.js"
   ]
 }
