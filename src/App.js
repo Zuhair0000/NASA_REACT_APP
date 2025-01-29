@@ -6,7 +6,6 @@ import SideBar from "./components/SideBar";
 function App() {
   const [showModal, setShowModal] = useState(false);
   const [data, setData] = useState(null);
-  const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
     async function fetchApi() {
